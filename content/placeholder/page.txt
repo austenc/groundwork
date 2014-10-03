@@ -1,0 +1,4 @@
+{% put head %}
+    <link href="css/style.min.css" rel="stylesheet">
+    <script src="js/scripts.min.js"></script>
+{% endput %}

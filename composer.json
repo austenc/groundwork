@@ -1,0 +1,17 @@
+{
+    "name": "406digital/groundwork",
+    "type": "october-theme",
+    "description": "a starter theme for OctoberCMS",
+    "keywords": ["october", "cms", "406digital", "responsive", "theme", "bootstrap", "starter"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Austen Cameron",
+            "email": "austen.cameron@gmail.com",
+            "role": "Creator"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}

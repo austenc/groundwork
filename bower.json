@@ -1,0 +1,20 @@
+{
+  "name": "groundwork",
+  "version": "0.1.0",
+  "authors": [
+    "austenc <austen.cameron@gmail.com>"
+  ],
+  "description": "a starter theme for october cms",
+  "license": "proprietary",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.*",
+    "bootstrap": "~3.2.*"
+  }
+}
